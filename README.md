@@ -1,0 +1,1 @@
+my Hyprland basic config
